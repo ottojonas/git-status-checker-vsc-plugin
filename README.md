@@ -35,4 +35,4 @@ When you attempt to close a file with unsynced changes, the extension will displ
 
 The extension works automatically in the background. No configuration is needed. When you close a file and have unsynced changes, you'll see a warning message.
 
-You can also manually check for unsynced changes using the command:
+
