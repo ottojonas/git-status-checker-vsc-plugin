@@ -53,3 +53,4 @@ yarn-error.log*
 # parcel-bundler cache
 .cache
 .parcel-cache
+/.vscode-test
